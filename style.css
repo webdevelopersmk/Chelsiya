@@ -1,0 +1,108 @@
+.jumbotron {
+    padding-top: 1rem;
+    padding-bottom: 0rem;
+    background-color: #8aeaff;
+}
+.btn {
+    padding: 10px 30px;
+    border-radius: 50px;
+    border: none;
+    background: linear-gradient(to right, #1e90ff, blue);
+    color: white;
+    cursor: pointer;
+    transition: 1s ease, transform 0.9s ease;
+  }
+  .btn:hover {
+    background: linear-gradient(to right, blue, #1e90ff);
+    color: white;
+    transform: scale(1.05);
+}
+/* Efek cahaya biru untuk tombol "Button" */
+.glow-button {
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.7), 0 0 20px rgba(0, 123, 255, 0.5);
+  transition: all 0.3s ease-in-out;
+}
+
+.glow-button:hover {
+  box-shadow: 0 0 15px rgba(0, 123, 255, 1), 0 0 30px rgba(0, 123, 255, 0.8);
+  transform: translateY(-2px);
+}
+/* Efek cahaya biru tomobol send */
+.btn-glow {
+  background-color: #0d6efd;
+  color: white;
+  box-shadow: 0 0 8px rgb(0, 234, 255);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.btn-glow:hover {
+  box-shadow: 0 0 12px rgb(255, 255, 255);
+}
+/* Background lembut untuk bagian Project */
+#project {
+  background: linear-gradient(to bottom, #e0f7ff, #b3e5fc);
+  padding-top: 60px;
+  padding-bottom: 60px;
+  border-radius: 0 0 30px 30px;
+}
+.gallery {
+  background-color:#8aeaff ;
+  
+}
+
+
+  /HOUVER RESPONSIVE/
+.responsive {
+  padding: 10px 30px;
+  border-radius:px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.responsive:hover {
+  color: white;
+  transform: scale(1.05);
+}
+
+/*HOUVER RESPONSIVE1 */
+
+.responsive1 {
+  padding: 10px 30px;
+  border-radius:px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.responsive1:hover {
+  color: white;
+  transform: scale(1.05);
+}
+
+
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.responsive1{
+  width: 100%;
+  height: auto;
+}
+
+
+
+section {
+  padding-top: 7rem;
+}
+
+  
+
+
+
+
+  
